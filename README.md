@@ -1,4 +1,4 @@
-# Hello-Cuda-for-C-
+# Hello-Cuda-for-C#
 Build cuda fun for C# Form
 
 CUDA 四部曲
