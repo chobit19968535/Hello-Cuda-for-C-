@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Form_cuda\bin\x64\Debug\Form_cuda.exe.config
+C:\Users\user\source\repos\Form_cuda\bin\x64\Debug\Form_cuda.exe
+C:\Users\user\source\repos\Form_cuda\bin\x64\Debug\Form_cuda.pdb
+C:\Users\user\source\repos\Form_cuda\obj\x64\Debug\Form_cuda.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Form_cuda\obj\x64\Debug\Form_cuda.Form1.resources
+C:\Users\user\source\repos\Form_cuda\obj\x64\Debug\Form_cuda.Properties.Resources.resources
+C:\Users\user\source\repos\Form_cuda\obj\x64\Debug\Form_cuda.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Form_cuda\obj\x64\Debug\Form_cuda.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Form_cuda\obj\x64\Debug\Form_cuda.exe
+C:\Users\user\source\repos\Form_cuda\obj\x64\Debug\Form_cuda.pdb
